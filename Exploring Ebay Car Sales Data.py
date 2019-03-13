@@ -363,9 +363,3 @@ brand_info
 
 
 # The range of car mileages does not vary as much as the prices do by brand, instead all falling within 10% for the top brands. There is a slight trend to the more expensive vehicles having higher mileage, with the less expensive vehicles having lower mileage.
-
-# In[ ]:
-
-
-
-
