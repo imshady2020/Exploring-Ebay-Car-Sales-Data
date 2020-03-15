@@ -22,5 +22,6 @@ The dataset was originally scraped and uploaded to [Kaggle](https://www.kaggle.c
  - nrOfPictures - The number of pictures in the ad.
  - postalCode - The postal code for the location of the vehicle.
  - lastSeenOnline - When the crawler saw this ad last online.
+ 
 
 The aim of this project is to clean the data and analyze the included used car listings.
